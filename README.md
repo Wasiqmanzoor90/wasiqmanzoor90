@@ -8,7 +8,7 @@
 
 ---
 
-### 🧑‍💻 About Me
+## 🧑‍💻 About Me
  _🔭 Currently working as a Software Engineer  
  _💡 Passionate about solving real-world problems with efficient code  
  _🌱 Exploring *Technical Content Writing* and DevOps practices  
